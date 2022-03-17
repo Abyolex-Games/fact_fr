@@ -1,6 +1,6 @@
 # Vanilla | 1.1
 
-If you want the save file, just click the right number on the file in this folder.
+Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qui correspond à l'épisode (YT1 = épisode 1 etc).
 
 - [Episode 1](https://www.youtube.com/watch?v=wLT97nQ7uBM)
 - [Episode 2](https://www.youtube.com/watch?v=gvWN4YMX-t0)
