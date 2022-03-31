@@ -2,19 +2,22 @@
 
 Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qui correspond à l'épisode (YT1 = épisode 1 etc).
 
-- [Episode 1](https://www.youtube.com/watch?v=wLT97nQ7uBM)
-- [Episode 2](https://www.youtube.com/watch?v=gvWN4YMX-t0)
-- [Episode 3](https://www.youtube.com/watch?v=JOitl3_7Zng)
-- [Episode 4](https://www.youtube.com/watch?v=m6bd7rTcxLo)
-- [Episode 5](https://www.youtube.com/watch?v=sM96aZdenes)
-- [Episode 6](https://www.youtube.com/watch?v=xHq1NbI7yms)
-- [Episode 7](https://www.youtube.com/watch?v=ROb5_bxgdEk)
-- [Episode 8](https://www.youtube.com/watch?v=tqMRGR-5VG0)
-- [Episode 9](https://www.youtube.com/watch?v=lQ_lSqQVDtw)
-- [Episode 10](https://www.youtube.com/watch?v=qbfMXM66_ZM)
+- [Episode 1](https://youtu.be/wLT97nQ7uBM)
+- [Episode 2](https://youtu.be/gvWN4YMX-t0)
+- [Episode 3](https://youtu.be/JOitl3_7Zng)
+- [Episode 4](https://youtu.be/m6bd7rTcxLo)
+- [Episode 5](https://youtu.be/sM96aZdenes)
+- [Episode 6](https://youtu.be/xHq1NbI7yms)
+- [Episode 7](https://youtu.be/ROb5_bxgdEk)
+- [Episode 8](https://youtu.be/tqMRGR-5VG0)
+- [Episode 9](https://youtu.be/lQ_lSqQVDtw)
+- [Episode 10](https://youtu.be/qbfMXM66_ZM)
 - [Episode 11](https://youtu.be/H4Ec5HYzgsQ)
 - [Episode 12](https://youtu.be/CYvBlfvBzOs)
 - [Episode 13](https://youtu.be/E_Oq7T6560w)
+- [Episode 14](https://youtu.be/jyQHyUymXbY)
+- [Episode 15](https://youtu.be/M7fi0Wz8Sd4)
+- [Episode 16](https://youtu.be/qH-zD-K962c)
 
 ![Map](ZyHOsQ66vD.png)
 
