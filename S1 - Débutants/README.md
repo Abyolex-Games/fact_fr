@@ -18,6 +18,10 @@ Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qu
 - [Episode 14](https://youtu.be/jyQHyUymXbY)
 - [Episode 15](https://youtu.be/M7fi0Wz8Sd4)
 - [Episode 16](https://youtu.be/qH-zD-K962c)
+- [Episode 17](https://youtu.be/D1OKJY86i-I)
+- [Episode 18](https://youtu.be/S8dQWuQRCaM)
+- [Episode 19](https://youtu.be/-GI5PBjg0eI)
+- [Episode 20](https://youtu.be/sXRJUSskiFM)
 
 ![Map](ZyHOsQ66vD.png)
 
