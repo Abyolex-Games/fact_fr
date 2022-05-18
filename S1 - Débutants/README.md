@@ -22,6 +22,12 @@ Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qu
 - [Episode 18](https://youtu.be/S8dQWuQRCaM)
 - [Episode 19](https://youtu.be/-GI5PBjg0eI)
 - [Episode 20](https://youtu.be/sXRJUSskiFM)
+- [Episode 21](https://youtu.be/8HhTNL5Kycs)
+- [Episode 21.5](https://youtu.be/Q8szsnGJCfk)
+- [Episode 22](https://youtu.be/HpbDIA_lE5k)
+- [Episode 23](https://youtu.be/La-B3XG7RkI)
+- [Episode 24](https://youtu.be/Mfz-x9AxRIk)
+- [Episode 25](https://youtu.be/vb37xQkNL4w)
 
 ![Map](ZyHOsQ66vD.png)
 
