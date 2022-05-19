@@ -28,6 +28,7 @@ Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qu
 - [Episode 23](https://youtu.be/La-B3XG7RkI)
 - [Episode 24](https://youtu.be/Mfz-x9AxRIk)
 - [Episode 25](https://youtu.be/vb37xQkNL4w)
+- [Episode 26](https://youtu.be/pNd5Lu-s1I0)
 
 ![Map](ZyHOsQ66vD.png)
 
