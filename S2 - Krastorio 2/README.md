@@ -4,7 +4,7 @@ Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qu
 
 ## Mods
 
-- [Todo List](https://mods.factorio.com/mod/Todo-List): https://mods.factorio.com/mod/Todo-List
+- [Todo List](https://mods.factorio.com/mod/Todo-List)
 - [Additional Paste Settings](https://mods.factorio.com/mod/AdditionalPasteSettings)
 - [Afraid Of The Dark](https://mods.factorio.com/mod/AfraidOfTheDark)
 - [Auto Deconstruct](https://mods.factorio.com/mod/AutoDeconstruct)
