@@ -35,6 +35,9 @@ Si vous voulez les fichiers de sauvegarde, il suffit d'appuyer sur le fichier qu
 - [Episode 1](https://youtu.be/7k5mP7MPXvg)
 - [Episode 2](https://youtu.be/Jjp3ZQPx9ow)
 - [Episode 3](https://youtu.be/DbARAEqXlfw)
+- [Episode 4](https://youtu.be/2miAW24ZrXo)
+- [Episode 5](https://youtu.be/Aw7Yi2NlPS4)
+- [Episode 6](https://youtu.be/zk4Ku8xD9tM)
 
 ![Map](4tnoYTVsaE.png)
 
